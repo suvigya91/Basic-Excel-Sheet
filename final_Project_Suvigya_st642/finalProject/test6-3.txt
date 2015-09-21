@@ -1,0 +1,7 @@
+set 0 1 number 4.1
+set 1 1 number 5.1
+set 2 1 string not a number
+set 0 0 min 1 0 20
+print
+quit
+

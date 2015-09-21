@@ -1,0 +1,5 @@
+set 2 1 string some old text
+set 2 1 string replacement text
+print
+quit
+

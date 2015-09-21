@@ -1,0 +1,6 @@
+set 3 2 string test
+set 2 2 string test
+set 3 1 string test
+print
+quit
+

@@ -1,0 +1,5 @@
+addrow blah
+removerow not a valid number
+print
+quit
+

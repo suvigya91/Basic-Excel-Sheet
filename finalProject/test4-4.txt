@@ -1,0 +1,3 @@
+set 1 1 number not a number
+print
+quit

@@ -1,0 +1,10 @@
+set 0 1 number 4.1
+set 1 1 number 5.1
+set 2 1 number 6.1
+set 0 0 max 1 0 2
+set 1 0 max 1 0 1
+set 2 0 string not a number
+set 3 0 max 0 0 2
+print
+quit
+
