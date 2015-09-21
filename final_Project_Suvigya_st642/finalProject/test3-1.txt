@@ -1,6 +1,0 @@
-set 0 0 string first string
-set 2 1 string last string at the end
-set 1 1 string middle
-print
-quit
-

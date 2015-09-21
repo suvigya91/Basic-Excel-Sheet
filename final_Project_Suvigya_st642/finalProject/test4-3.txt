@@ -1,6 +1,0 @@
-set 3 2 number 4.4
-set 2 2 number 4.4
-set 3 1 number 5.4
-print
-quit
-

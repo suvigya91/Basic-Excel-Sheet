@@ -1,5 +1,0 @@
-addrow 3
-removerow -1
-print
-quit
-

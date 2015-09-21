@@ -1,9 +1,0 @@
-set 0 0 number 3.14
-addrow 0
-addrow 1
-set 2 1 string test
-set 1 1 number -13.1
-addrow 0
-print
-quit
-

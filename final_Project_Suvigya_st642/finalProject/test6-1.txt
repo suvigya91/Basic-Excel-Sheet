@@ -1,8 +1,0 @@
-set 0 1 number 4.5
-set 1 1 number 5
-set 2 1 number 4.1
-set 0 0 min 1 0 2
-set 1 0 min 1 1 2
-print
-quit
-

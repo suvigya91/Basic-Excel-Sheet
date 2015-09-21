@@ -1,5 +1,0 @@
-bad command
-print
-garbage
-quit
-
